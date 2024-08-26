@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\CMakeFiles\35c2ae5204797380eb0bbe2d7f345294\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5FB15529-0911-3024-9365-AD7DBE6187EB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-copyfile.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\19f6090a86180512665838c1b58c38e7\nuget-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\ba4dfdbcd3451559c5d5c1440f010db2\nuget-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\c59a237a8be151b0a137b34789fd6e26\nuget-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\baoch\Downloads\musicflutter\build\windows\x64\_deps\nuget-subbuild\CMakeFiles\nuget-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{8A69A336-3D51-3DDF-A464-0A1DA41EE331}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

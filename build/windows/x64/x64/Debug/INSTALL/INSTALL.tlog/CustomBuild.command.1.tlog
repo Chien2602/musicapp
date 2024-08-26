@@ -1,0 +1,10 @@
+^C:\USERS\BAOCH\DOWNLOADS\MUSICFLUTTER\BUILD\WINDOWS\X64\CMAKEFILES\23B09FA58FA8E9518DDA9B12BEAC977C\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

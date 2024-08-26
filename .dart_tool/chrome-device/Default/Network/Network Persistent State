@@ -1,0 +1,1 @@
+{"net":{"http_server_properties":{"servers":[{"anonymization":["GAAAABIAAABodHRwczovL2dvb2dsZS5jb20AAA==",false],"network_stats":{"srtt":63645},"server":"https://www.google.com"}],"supports_quic":{"address":"10.40.146.10","used_quic":true},"version":5},"network_qualities":{"CAASABiAgICA+P////8B":"3G"}}}

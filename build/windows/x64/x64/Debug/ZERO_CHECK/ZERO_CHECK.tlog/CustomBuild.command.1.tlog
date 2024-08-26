@@ -1,0 +1,10 @@
+^C:\USERS\BAOCH\DOWNLOADS\MUSICFLUTTER\BUILD\WINDOWS\X64\CMAKEFILES\23B09FA58FA8E9518DDA9B12BEAC977C\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/baoch/Downloads/musicflutter/windows -BC:/Users/baoch/Downloads/musicflutter/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/baoch/Downloads/musicflutter/build/windows/x64/musicflutter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
